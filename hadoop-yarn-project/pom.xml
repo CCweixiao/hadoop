@@ -33,6 +33,7 @@
     <fork.mode>once</fork.mode>
     <hadoop.component>yarn</hadoop.component>
     <is.hadoop.component>true</is.hadoop.component>
+    <yarn.ui.packaging>pom</yarn.ui.packaging>
   </properties>
 
   <modules>
